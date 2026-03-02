@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 
-    var a = "initial"
+    var a = "initial  123"
     fmt.Println(a)
 
     var b, c int = 1, 2
