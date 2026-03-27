@@ -1,1 +1,5 @@
-this is a go by example repository
+# 练习仓库
+
+> 这个练习仓库 用来记录自己的练习项目
+
+开始时间：2026年03月27日
